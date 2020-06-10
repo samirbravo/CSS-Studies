@@ -1,0 +1,16 @@
+.flex-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .flex-element {
+    background-color: lightpink;
+    border-radius: 5px;
+    height: 120px;
+    margin: 1rem;
+    width: 140px;
+    padding: 5px;
+    color: whitesmoke;
+  }
+  
